@@ -1,0 +1,10 @@
+201,Dr. Smith,Cardiology,03212345670,doctor123,1000
+202,Aadil,Data Science,03212345671,aadil123,1500
+203,Sana,Biology,03212345672,sana123,1500
+204,Dr. Ahmed,Neurology,03219876543,ahmed456,2000
+205,Dr. Ali,Orthopedics,03111222333,ali789,2500
+206,Dr. Sara,Pediatrics,03005556677,sara321,1800
+207,Dr. Khan,Dermatology,03447778899,khan654,2200
+208,Dr. Fatima,Gynecology,03334445566,fatima987,2700
+209,Dr. Usman,ENT,03225558888,usman741,1900
+210,Dr. Hina,Cardiology,03119997766,hina852,2400
